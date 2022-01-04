@@ -1,0 +1,4 @@
+name: Tandin
+Age: 26
+Gender: Male
+intrest: Cokking and travelling

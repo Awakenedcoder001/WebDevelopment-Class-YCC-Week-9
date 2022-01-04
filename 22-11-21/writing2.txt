@@ -1,0 +1,7 @@
+This is a new line
+Hello World!!
+Completed Writing
+a=10This is a new line
+Hello World!!
+Completed Writing
+a=10

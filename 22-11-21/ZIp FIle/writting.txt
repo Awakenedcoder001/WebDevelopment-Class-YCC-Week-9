@@ -1,0 +1,2 @@
+ZIp trial file 1
+will see what and how the file is transofrmed into when zipping.

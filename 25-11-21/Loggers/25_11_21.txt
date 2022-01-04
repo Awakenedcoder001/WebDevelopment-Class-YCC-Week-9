@@ -1,0 +1,15 @@
+CRITICAL:root:Inside of the critical section
+ERROR:root:The error section
+WARNING:root:Section on warning
+CRITICAL:root:Inside of the critical section
+ERROR:root:The error section
+WARNING:root:Section on warning
+CRITICAL:root:Inside of the critical section
+ERROR:root:The error section
+WARNING:root:Section on warning
+CRITICAL:root:critical section: Drunkard inside
+ERROR:root:error section: Your existance is an existance
+WARNING:root:Section on warning
+CRITICAL:root:critical section: Drunkard inside
+ERROR:root:error section: Your existance is an existance
+WARNING:root:Section on warning
